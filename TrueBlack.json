@@ -1,0 +1,92 @@
+{
+  "name": "True Black",
+  "description": "Creatures of the night",
+  "authors": [
+      {
+          "name": "fero",
+          "id": "924621655345627196"
+      }
+  ],
+  "semanticColors": {
+      "BACKGROUND_PRIMARY": [
+          "#000000"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#000000"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#000000"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#000000"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#000000"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#000000"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#000000"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#000000"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#000000"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#000000"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#000000"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [
+        "#000000"
+      ],
+      "MENTION_BACKGROUND": [
+          "#14161D"
+      ],
+      "CHAT_BACKGROUND": [
+          "#000000"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#c2c2c2"
+      ],
+      "HEADER_PRIMARY": [
+          "#ffffff"
+      ],
+      "HEADER_SECONDARY": [
+          "#c2c2c2"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#ffffff"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#d0d1d4"
+      ],
+      "TEXT_MUTED": [
+          "#c2c2c2"
+      ],
+      "BACKGROUND_MENTIONED": [
+          "#14161D"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#C2C2C2",
+      "PRIMARY_300": "#C2C2C2",
+      "PRIMARY_360": "#FFFFFF",
+      "PRIMARY_500": "#000000",
+      "PRIMARY_600": "#000000",
+      "PRIMARY_630": "#000000",
+      "PRIMARY_660": "#000000",
+      "PRIMARY_700": "#000000",
+      "PRIMARY_800": "#000000",
+      "PRIMARY_900": "#000000",
+      "BRAND_900": "#7288DA",
+      "BRAND_500": "#2E3034",
+      "WHITE_900": "#FFFFFF",
+      "YELLOW_300": "#FFFFFF"
+  },
+  "spec": 2
+}
