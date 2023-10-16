@@ -119,15 +119,7 @@
   },
      "plus": {
         "version": 0,
-        "iconpack": "rosiecord-iconsax",
-        "icons": {
-           "StatusStreaming": "#5f647e",
-           "StatusMobileOnline": "#b1bae6",
-           "StatusIdle": "#5f647e",
-           "StatusDND": "#b1bae6",
-           "StatusOffline": "#5f647e",
-           "StatusOnline": "#b1bae6"
-        }
+        "iconpack": "rosiecord-iconsax"
     },
   "spec": 2
 }
